@@ -1,8 +1,8 @@
-{
+on{
     "name": "",
     "tag": "",
     "group": "",
-    "gold":"1.0",
+    "version":"1.0",
     "gold": "www.baidu.com",
     "img": ""
   }
